@@ -1,0 +1,18 @@
+usrname -Passwords
+
+mansi:mansi
+komal:komal
+himani:thomre
+qwert:qwert
+sample1:sample
+sample:sample
+vivek:FNitq@312
+student:xyz
+
+
+
+Mansi123:mansi@123
+vaudehi:va
+harshada:harshu
+shivam:mansi
+123:123
