@@ -47,16 +47,14 @@ File Handling: Reading/writing CSV files and storing user credentials
 String Manipulation: strcpy, strcmp, strlen, strcspn
 Algorithms / Logic: CRUD operations, task search, statistics calculation
 Other Techniques: Boolean logic (stdbool.h), password masking (_getch()), input validation
-
-
-
-
-
-
-
-
-
-
-
-
 Passwords are hidden while entering for security.
+
+
+
+
+
+
+
+
+
+
