@@ -57,19 +57,29 @@ Signup/Login interface
 
 ![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/1.png?raw=true)
 
-Operations to be performed
+Adding new task
 
 ![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/2.png?raw=true)
 
-Task handlings
+Changing Status as Done
 
 ![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/3.png?raw=true)
 
-Final output
+Deleting a task
 
 ![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/4.png?raw=true)
 
+Editing a task
 
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/5.png?raw=true)
+
+Checking Stats
+
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/6.png?raw=true)
+
+Final output
+
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/7.png?raw=true)
 
 
 
