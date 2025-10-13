@@ -51,7 +51,27 @@ Passwords are hidden while entering for security.
 
 
 
+Here's some preview :-
+
+Signup/Login interface
+
 ![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/1.png?raw=true)
+
+Operations to be performed
+
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/2.png?raw=true)
+
+Task handlings
+
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/3.png?raw=true)
+
+Final output
+
+![image alt](https://github.com/mansi153-wq/todo_list_miniproject/blob/main/screenshots/4.png?raw=true)
+
+
+
+
 
 
 
